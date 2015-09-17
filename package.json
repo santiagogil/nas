@@ -1,0 +1,28 @@
+{
+  "name": "nas",
+  "version": "0.0.1",
+  "description": "A page that say's what you type on standard input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagogil/nas.git"
+  },
+  "keywords": [
+    "tts",
+    "streams"
+  ],
+  "author": "Santiago Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santiagogil/nas/issues"
+  },
+  "homepage": "https://github.com/santiagogil/nas#readme",
+  "dependencies": {
+    "ecstatic": "^1.0.0",
+    "mespeak": "^2.0.0",
+    "shoe": "0.0.15"
+  }
+}
